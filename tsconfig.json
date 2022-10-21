@@ -1,0 +1,7 @@
+{
+    "files": [],
+    "references": [
+      { "path": "./vite-app" },
+      { "path": "./vite-lib" },
+    ]     
+}
